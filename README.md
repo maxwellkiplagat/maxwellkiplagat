@@ -30,7 +30,7 @@
 
 ## Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,bootstrap,git,docker,linux,postgres,sqlite,render,postman,figma,heroku&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,bootstrap,git,docker,linux,postgres,sqlite,postman,figma,Typescript&theme=dark" />
 </p>
 
 ---
